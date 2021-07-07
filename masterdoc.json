@@ -1,0 +1,17 @@
+[
+ {
+    "Name": "Module 2: Explore relational data in Azure",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals",
+    "Files":[
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/master/Instructions/01-Provision-Azure-relational-database-services.md",
+        "Order": 1
+       },
+       {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/master/Instructions/02-Use-SQL-to-query-Azure-SQL-Database.md",
+        "Order": 2
+        }
+      ]
+   }
+ ]
